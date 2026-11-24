@@ -32,7 +32,7 @@ Para executar o projeto, é necessário ter instalado:
 1. Faça o download ou clone este repositório:
 
    ```bash
-   git clone https://github.com/USUARIO/space-invaders.git
+   https://github.com/fCosmoski/space-invaders.git
    ```
 
 2. Abra a pasta do projeto no Visual Studio Code.
