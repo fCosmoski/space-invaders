@@ -8,9 +8,9 @@ Um jogo inspirado no clássico Space Invaders, desenvolvido em linguagem C utili
 
 ## Integrantes do grupo
 
-- Raul Mateus de Lima Reis RA: 26014823
-- Felipe Cosmoski
-- João Paulo Dalzoto
+- Raul Mateus de Lima Reis | RA: 26014823
+- Felipe de Lima Cosmoski | RA: 26022923
+- João Paulo Dalzoto | RA:
 
 ## Tecnologias utilizadas
 
