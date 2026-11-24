@@ -4,8 +4,7 @@ Um jogo inspirado no clássico Space Invaders, desenvolvido em linguagem C utili
 
 ## Demonstração do jogo
 
-<!-- Insira aqui uma imagem do jogo -->
-
+![Space Invaders](space-invaders-main/WhatsApp Image 2026-11-23 at 21.47.13.jpeg)
 ## Integrantes do grupo
 
 - Raul Mateus de Lima Reis | RA: 26014823
