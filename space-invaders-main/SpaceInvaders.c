@@ -1,5 +1,4 @@
 #include <raylib.h>
-#include "enemymanager.hpp"
 #define QTD_ESTRELAS 100
 
 //Variaveis universais
@@ -69,7 +68,6 @@ int main()
     InitWindow(800, 800, "Space Invaders");
     SetTargetFPS(60);
 
-    EnemyManager inimigos(4, 8, 800, 800);
     
     Rectangle botaoJogar = {340, 365, 120, 40};
     Rectangle botaoSair = {365, 445, 120, 40};
@@ -109,9 +107,6 @@ int main()
             desenharEstrelas();
             nave();
             movimentarEstrelas();
-
-            inimigos.Update(GetFrameTime());
-            inimigos.Draw();
 
             //Quando morrer no jogo
         }
